@@ -26,7 +26,14 @@ then in order to use, run the file `Lingo.py`. You will be greeted with a `Name:
 ```sh
 python3 Lingo.py
 ```
-  
+
+
+## TODO
+- [ ] REST API Mode
+- [ ] Proper CLI
+- [ ] Silent IPC mode
+- [ ] Speed Enhancements
+- [ ] Unit Tests
   
 ## How It Works
 **TL;DR:** BAYES THEOREM.
