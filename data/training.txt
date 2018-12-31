@@ -283,7 +283,7 @@ haleemah f
 fizza f
 rayfaan m
 saazidah f
-i'timad f
+itimad f
 ruhiya f
 tabdar m
 taqiyyah f
@@ -640,7 +640,7 @@ rashidha f
 armand m
 sakeena f
 tehniyath f
-ul-saba f
+ulsaba f
 hubba f
 mateen m
 ghali m
@@ -768,7 +768,7 @@ fatinah f
 ridhuvan m
 nimat f
 farija f
-un-nisa f
+unnisa f
 qasidulhaq m
 rikka f
 jazba f
@@ -888,7 +888,7 @@ farhal f
 siwar m
 damian m
 hamnah f
-e-rooman f
+erooman f
 jahfar m
 nahyan m
 meah f
@@ -939,7 +939,7 @@ sulaaf m
 shaibaan m
 fakira f
 farhanah f
-ul-qiblatayn m
+ulqiblatayn m
 riyazul m
 najjia f
 sajeed m
@@ -1822,7 +1822,7 @@ sheenaz f
 jelani m
 mahathir m
 mushtaba m
-al-sami m
+alsami m
 fizain m
 elakkiya f
 rahmaa f
@@ -1864,7 +1864,7 @@ shaffat m
 zuka m
 fahiba f
 iesa m
-ul-huda m
+ulhuda m
 sammara f
 alafdal m
 shadhan m
@@ -2150,7 +2150,7 @@ kaadir m
 saharul m
 wadduha f
 sufwan m
-ul-eeman m
+uleeman m
 siyahi f
 ashkar m
 youzarsif m
@@ -2216,7 +2216,7 @@ shabiq m
 shamit m
 jameer m
 birrah f
-ud-dawlah m
+uddawlah m
 ghurar m
 isha m
 yacine m
@@ -2234,7 +2234,7 @@ nashid f
 faeiqa f
 nuaimaan m
 lodhi m
-ul-yaqeen m
+ulyaqeen m
 nazahah f
 safija f
 aynul m
@@ -2810,7 +2810,7 @@ arzhan m
 ishqa f
 zenaida f
 bahurudeen m
-abdulmuta'alee m
+abdulmutaalee m
 anayza f
 ahnab m
 azraq m
@@ -3031,7 +3031,7 @@ aasar m
 mosarof m
 lahab m
 mahbub m
-al-huda f
+alhuda f
 ruwayfe m
 sakriya f
 awamiri m
@@ -3055,7 +3055,7 @@ amosa m
 sharifu m
 dajjal m
 sofikul m
-džemal m
+dzemal m
 mhaywish f
 khalees m
 hasmat m
@@ -3529,7 +3529,7 @@ shafnaz f
 ighla f
 mihan m
 alkhattab m
-džanan m
+dzanan m
 zuraara m
 aislin f
 rakibul m
@@ -3614,7 +3614,7 @@ numaan m
 maqboola f
 ansad m
 jefferson m
-al-karim m
+alkarim m
 feeiza f
 farshad m
 rafay m
@@ -4006,7 +4006,7 @@ zarin f
 jeannie f
 mufica f
 taufiqa f
-šukrija m
+sukrija m
 saakin m
 aamariah f
 rafhan m
@@ -4375,7 +4375,7 @@ simmaa f
 mehnaz f
 shadiah f
 baahir m
-džemila f
+dzemila f
 riny f
 thumamah m
 miajan m
@@ -4558,7 +4558,7 @@ saivana f
 din m
 sirvan m
 farouk m
-ul-izaar m
+ulizaar m
 nadheed m
 hujaifa m
 shahrin f
@@ -4610,7 +4610,7 @@ wasimuddin m
 tajudeen m
 sahmat f
 pouran f
-dženan m
+dzenan m
 oamra f
 radhika f
 milla f
@@ -4727,7 +4727,7 @@ afeeq m
 aarmaan m
 ishar m
 luvaiza f
-e-kulsoom f
+ekulsoom f
 misna f
 jasheera f
 ayleen f
@@ -4825,7 +4825,7 @@ ripon m
 ambra f
 darim m
 zaheer m
-abla' f
+abla f
 mohannad m
 hazara f
 ghusayn m
@@ -4909,7 +4909,7 @@ rajudin m
 fakhta f
 tathbeet m
 jameelur m
-ud-din m
+uddin m
 jerick m
 fayad m
 makhdooma f
@@ -5028,7 +5028,7 @@ mislafah f
 sitaara f
 wiqaa f
 majdaldin m
-e-salma f
+esalma f
 izbah f
 mahemood m
 varten m
@@ -5354,7 +5354,7 @@ hameeda f
 haniyyah f
 azwin m
 mowlana m
-ul-banin f
+ulbanin f
 kafia f
 amajgar m
 raila f
@@ -5505,7 +5505,7 @@ aren m
 sahidul m
 eleesha f
 tala f
-shu'aa m
+shuaa m
 rihanul m
 taisha f
 ragina f
@@ -6740,7 +6740,7 @@ hadfah f
 suban m
 amney f
 yemini f
-al-qadir m
+alqadir m
 michelle f
 yaania f
 wahdan m
@@ -6754,7 +6754,7 @@ rafeedha f
 neeshma f
 here m
 tehnia f
-đulizar m
+dulizar m
 khairudeen m
 rejina f
 aayanuddin m
@@ -7210,7 +7210,7 @@ azbak m
 yaqinuddin m
 muafa m
 ayyaam m
-ul-haq m
+ulhaq m
 ashima f
 zertashia f
 jaheen m
@@ -7512,7 +7512,7 @@ beibut m
 ghaffaar m
 aseeb f
 kamil m
-đemila f
+demila f
 tamnna f
 kamilla f
 heira f
@@ -8250,7 +8250,7 @@ hanane f
 wasey m
 aarman m
 aamiruddin m
-a'dab f
+adab f
 tanjir m
 aleelea f
 arsalaan m
@@ -8386,7 +8386,7 @@ johir m
 ruhal m
 rosh m
 sharaara m
-e-salmah f
+esalmah f
 aza m
 fardin m
 avir m
@@ -8473,7 +8473,7 @@ safil m
 rafsal m
 ikbal m
 tarikh m
-abdulra'uf m
+abdulrauf m
 shawamikh m
 aieham m
 rimon m
@@ -8627,7 +8627,7 @@ shahnzay f
 mahrufa f
 shaahidoon m
 sehanaj f
-e-shahwar f
+eshahwar f
 jahmile m
 bashera m
 saber m
@@ -9118,7 +9118,7 @@ fahreta f
 ayaaz m
 fia f
 mahboub m
-at-tayyib m
+attayyib m
 ibaadat f
 kalama m
 ezra f
@@ -9316,7 +9316,7 @@ zaaiirah f
 ahmedullha m
 sahbuddin m
 mistah m
-abdulmu'eid m
+abdulmueid m
 faiva f
 zonaish m
 shahmeena f
@@ -9423,7 +9423,7 @@ syafiqah f
 kaylen m
 kumail m
 mahjan m
-e-sahar f
+esahar f
 qeehael m
 anish m
 aayeesha f
@@ -10343,7 +10343,7 @@ haifaa f
 arav m
 bakhta f
 mouminin m
-ur-ridaa m
+urridaa m
 liyana f
 taslin f
 durnave f
@@ -10789,7 +10789,7 @@ aawad m
 haaq m
 juyal m
 efrat f
-šaha f
+saha f
 aabedah f
 benzima m
 rebab f
@@ -10841,7 +10841,7 @@ itemaad f
 afvan m
 muhanad m
 amairah f
-abdulmu'izz m
+abdulmuizz m
 shaielle f
 saiza f
 sarfaz m
@@ -11087,7 +11087,7 @@ challita m
 haque m
 muhajir m
 mustabsirin m
-ajša f
+ajsa f
 gulnasheen f
 nuqrah f
 muzakkir m
@@ -11119,7 +11119,7 @@ parham m
 lanie m
 mannal f
 afik m
-al-bari m
+albari m
 johen m
 leili f
 grahesh m
@@ -11511,7 +11511,7 @@ rifaath m
 naiyyir m
 shrieen f
 zohrin f
-abt'hi m
+abthi m
 asawar m
 ayam m
 salfia f
@@ -11793,7 +11793,7 @@ akhmas m
 seleman m
 shaguftha f
 abuzeid m
-bari'ah f
+bariah f
 iher m
 munkadir m
 ramshida f
@@ -12016,7 +12016,7 @@ aabad m
 janeesha f
 saaduddin m
 qeturah f
-at-tahir m
+attahir m
 arben m
 arsheena f
 hmidou m
@@ -12478,7 +12478,7 @@ tamra f
 jaleb m
 marwa f
 raushan m
-rifa'ah m
+rifaah m
 naasihoon m
 walid m
 faizana f
@@ -12536,7 +12536,7 @@ masuba f
 uzaifa m
 ghailan m
 naqaa f
-er-rahman m
+errahman m
 chafia f
 ofra f
 saqira f
@@ -12667,7 +12667,7 @@ mosahid m
 imraj m
 meshia f
 souad f
-al-rachid m
+alrachid m
 kamala f
 wajeh m
 uzain m
@@ -12813,7 +12813,7 @@ kayden m
 rifansa f
 faabis m
 hayy m
-ut-tawbah m
+uttawbah m
 haran m
 sahereen f
 suhar f
@@ -12839,7 +12839,7 @@ babar m
 naurin f
 abdush m
 zulman m
-dževada f
+dzevada f
 hagar f
 rafee m
 nizwan m
@@ -12876,7 +12876,7 @@ misad m
 hadhi m
 mushafira f
 baseer m
-paša f
+pasa f
 zaheda f
 reya m
 aleyah f
@@ -12995,7 +12995,7 @@ ataulla m
 zuberi m
 nejah f
 huzaaf m
-ćazim m
+cazim m
 buhayyah f
 rasheyd m
 nazish f
@@ -13510,7 +13510,7 @@ niamath m
 famani f
 djin f
 umaiyyah f
-al-allah m
+alallah m
 khalifat m
 shahzmeen f
 juvia f
@@ -13607,7 +13607,7 @@ abhaar m
 hasik m
 nooranissa f
 mahmoodatunnisa f
-mu'tazz m
+mutazz m
 aldjahiz m
 mutiulislam m
 saihat f
@@ -13715,7 +13715,7 @@ jahani f
 mughis m
 waseme f
 mutab m
-al-alim m
+alalim m
 nujaym m
 tasqeen m
 joyab m
@@ -14017,7 +14017,7 @@ maysa f
 kamalah f
 somadha f
 anayara f
-pašaga m
+pasaga m
 hadeefah f
 aksa f
 barkath m
@@ -14075,7 +14075,7 @@ amayrah f
 alamara f
 kahiraa f
 ayham m
-nedžara f
+nedzara f
 farhat m
 qssim m
 zihaan m
@@ -14444,7 +14444,7 @@ nazaat m
 songkarn m
 maya f
 sawaira f
-ul-qamar f
+ulqamar f
 samroze m
 khazraa f
 sabiruddin m
@@ -14585,7 +14585,7 @@ alwaz m
 mushrraf m
 arbish f
 maneeha f
-al-qaasim m
+alqaasim m
 issavi m
 timeer m
 ideeq m
@@ -14663,7 +14663,7 @@ luda m
 onaysa f
 hureen f
 aashmi f
-a'ishah f
+aishah f
 waasifah f
 zargar m
 mehk f
@@ -14676,7 +14676,7 @@ sidiq m
 latiba f
 zhibek f
 naazi m
-e-hani f
+ehani f
 raaziyah f
 naguib m
 zihuna f
@@ -14733,7 +14733,7 @@ ayrin m
 shamsun f
 nazib m
 khawwat m
-abdulmuta'al m
+abdulmutaal m
 sakief m
 rifkan f
 faizi m
@@ -14888,7 +14888,7 @@ qaiser f
 hafsina f
 azba f
 yusrullah m
-shu'a f
+shua f
 zoeb m
 farahdokht f
 saeedaa f
@@ -15425,7 +15425,7 @@ shakiroon m
 shajeeah f
 yaman m
 saifan m
-e-ranaa m
+eranaa m
 nuralam m
 ayaj m
 hamzad m
@@ -15626,7 +15626,7 @@ wamiq m
 sangina f
 moukib m
 rakhwan m
-e-rana f
+erana f
 obaydul m
 khadeshia f
 ashari m
@@ -15996,7 +15996,7 @@ jawdat m
 talayeh f
 manizeh f
 jalen m
-ševal m
+seval m
 ereshva f
 shuneza f
 aql m
@@ -16626,7 +16626,7 @@ ishrat f
 ilaan m
 aysan m
 basaair m
-e-sultan m
+esultan m
 saajitha f
 altayyib m
 brahin m
@@ -16735,7 +16735,7 @@ raishan m
 musabir m
 sabih m
 muayyad m
-ul-islam m
+ulislam m
 masbubah f
 shuaau f
 tamsiha f
@@ -17975,7 +17975,7 @@ naddaa f
 abdulla m
 sajjad m
 aloc m
-an-nisa f
+annisa f
 ilan m
 aafsheen f
 mahboobah f
@@ -18447,7 +18447,7 @@ zhusip m
 luqman m
 yazdan m
 nweh f
-šefika f
+sefika f
 ghusn f
 bahnaz f
 zarrar m
@@ -18695,7 +18695,7 @@ rayon m
 shajeel m
 farrooh m
 teufik m
-ul-abid m
+ulabid m
 fareedah f
 miftaur m
 nazema f
@@ -18833,7 +18833,7 @@ qodra f
 inzamamul m
 qalandar m
 xamza m
-ad-din m
+addin m
 twahir m
 marta f
 naziha f
@@ -18962,7 +18962,7 @@ ijaz f
 hudaiba f
 anshida f
 sunat f
-al-khayr m
+alkhayr m
 aibak m
 aswad m
 badiha f
@@ -19205,7 +19205,7 @@ yashina f
 asiya f
 nageena m
 magid m
-a'idah f
+aidah f
 sodoor m
 fahmeedha f
 harmalah m
@@ -19386,7 +19386,7 @@ navreena f
 faisil m
 tanweel m
 afrudeen m
-al-deen m
+aldeen m
 maazuz m
 saabirah f
 main m
@@ -19940,7 +19940,7 @@ saadah m
 erum f
 jammaz m
 bahz m
-šemsudin m
+semsudin m
 khayriyah f
 farishtha f
 eilin f
@@ -20360,7 +20360,7 @@ mahjabi f
 jalalaldin m
 maysun f
 zifa m
-džafer m
+dzafer m
 zazay m
 makaana f
 naama f
@@ -20551,7 +20551,7 @@ mashida f
 nasikah f
 mukram m
 raboul m
-niđara f
+nidara f
 suhaibullah m
 zulfah f
 fadlullah m
@@ -20843,7 +20843,7 @@ jaweed m
 aisyah f
 toushif m
 mehri f
-e-kulsum f
+ekulsum f
 memon m
 lutaifah m
 nubera f
@@ -21037,7 +21037,7 @@ mawhab m
 aishka f
 suada m
 aayden m
-ur-raham m
+urraham m
 rushdien m
 aliesha f
 mutair m
@@ -21368,7 +21368,7 @@ arsal m
 faqir m
 najjad m
 altijani m
-man'nah m
+mannah m
 saz m
 fayaj m
 wahidul m
@@ -21501,9 +21501,9 @@ rawhiya f
 iltaf m
 swaleh m
 zada f
-ul-mateen f
+ulmateen f
 fahaan m
-džemaludin m
+dzemaludin m
 jabina f
 sharfudheen m
 imaam m
@@ -21614,7 +21614,7 @@ ayaz m
 tuhfa f
 mahweesh f
 shateira f
-ul-qadam m
+ulqadam m
 mehlaka f
 muheet m
 hasini f
@@ -21651,7 +21651,7 @@ sumeera f
 rawia f
 ahasana f
 aminul m
-ševala f
+sevala f
 dahus m
 subaat f
 ateeq m
@@ -21814,7 +21814,7 @@ baaith m
 sharique m
 zelgai m
 momtahina f
-al-nur m
+alnur m
 nejmuneesa f
 mehna f
 thasbiha f
@@ -21837,7 +21837,7 @@ uzman m
 bayyinah f
 rowaida f
 zoaib m
-al-matin m
+almatin m
 sayin f
 ghazanfer m
 lamis f
@@ -22169,7 +22169,7 @@ sanovar m
 rumeesa f
 musheer m
 rashiqua f
-ur-raha m
+urraha m
 borna m
 mouminat f
 anin m
@@ -22190,7 +22190,7 @@ aaqaa m
 ishtyak m
 firdaws f
 wardha f
-ul-ghurr m
+ulghurr m
 tabbsum f
 abdalwahab m
 azab m
@@ -22603,7 +22603,7 @@ sayeema f
 tarfiha f
 raodah f
 ashlin m
-fari'ah f
+fariah f
 ahzik m
 barke m
 hindal m
@@ -23325,7 +23325,7 @@ arees m
 matloob m
 vaspan m
 mehveen f
-dželila f
+dzelila f
 jishna f
 shahsa f
 shaleem m
@@ -23531,7 +23531,7 @@ rutaba f
 rohayah f
 jahmela f
 naylaa f
-us-sayf m
+ussayf m
 aqshan m
 sulfeeker m
 jazibiyya f
@@ -23860,7 +23860,7 @@ hannanah f
 hamill m
 sawaa m
 amayah f
-e-alam m
+ealam m
 mozahidul m
 jazlin f
 ruxana f
@@ -24047,7 +24047,7 @@ nisvan m
 rahi m
 qabilah f
 badi m
-šeherzada f
+seherzada f
 mehrunisa f
 mustakeem m
 buz m
@@ -24340,7 +24340,7 @@ sirhan m
 rilla f
 indela f
 azin f
-ur-rahman m
+urrahman m
 sebeeya f
 shahena f
 gulistan f
@@ -24587,7 +24587,7 @@ shuhaidha f
 zaiyyan m
 zaibaa f
 sabia f
-a'rab m
+arab m
 saleeh m
 renesha f
 razeena f
@@ -24716,7 +24716,7 @@ hallas m
 harisa f
 ghafar m
 bahuj m
-un-naeem m
+unnaeem m
 shaah m
 parwin f
 amreena f
@@ -24957,7 +24957,7 @@ zulaikha f
 fayqa f
 zabir m
 fazia f
-al-jabbar m
+aljabbar m
 romman m
 fazle m
 sheeth m
@@ -25583,7 +25583,7 @@ abdurrafi m
 ghorzang m
 damil m
 pazir m
-aa'idah f
+aaidah f
 ramsheed m
 rumaliya f
 zahina f
@@ -25706,7 +25706,7 @@ khairin f
 ausaaf m
 jaforali m
 mayaza f
-rafa'ah m
+rafaah m
 subarnalata f
 muhsinun m
 sifaks m
@@ -26020,7 +26020,7 @@ zimra f
 mawaahib f
 zebadiyah m
 wajeeha f
-dževad m
+dzevad m
 shoieb m
 baydhaa f
 tabbssum f
@@ -26094,7 +26094,7 @@ sirajaldin m
 sehjina f
 jalila f
 sayeera f
-ćamil m
+camil m
 niham m
 rizwaa f
 dahlia f
@@ -26481,7 +26481,7 @@ linsha f
 rizvi m
 afees m
 jesi f
-dženeta f
+dzeneta f
 zahidasultana f
 aanaa m
 qani m
@@ -26869,7 +26869,7 @@ alsarah f
 rawdah f
 naazja f
 zilla f
-ul-haqq m
+ulhaqq m
 arfeen m
 sabnaj f
 bazullah m
@@ -27426,7 +27426,7 @@ huzayl m
 namia f
 magdi m
 raffia f
-e-qamar f
+eqamar f
 rafeenah f
 seham f
 ranee f
@@ -27591,7 +27591,7 @@ brekhna f
 asiah f
 taher m
 seifaldin m
-šemsa f
+semsa f
 zerina f
 hayfa f
 raakin m
@@ -27626,7 +27626,7 @@ shaqiqa f
 rehanaa f
 kahir m
 iliyaz m
-ul-qist m
+ulqist m
 yafiah f
 raed m
 almeria f
@@ -28093,7 +28093,7 @@ haqeeq m
 thanjya f
 sawa m
 ghafur m
-rib'i m
+ribi m
 alik m
 katha f
 miqdad m
@@ -28262,7 +28262,7 @@ rehila f
 jamilaa f
 hilf m
 qaima f
-al-haya f
+alhaya f
 ushama f
 atoofa f
 shakela f
@@ -29280,7 +29280,7 @@ nashema f
 shehzin f
 shaidan m
 wafik m
-e-rabbani m
+erabbani m
 lidya f
 ummumarah f
 uvais m
@@ -29376,7 +29376,7 @@ bismillah m
 ghasna f
 zardab m
 mounia f
-e-fazl f
+efazl f
 batin m
 mazarrah f
 saiyad m
@@ -29504,7 +29504,7 @@ haraam m
 mosiya f
 meha f
 yafir m
-al-rahman m
+alrahman m
 sadooh f
 rusen f
 sumera f
@@ -29700,7 +29700,7 @@ attaf m
 anshra f
 jazlaan m
 arfaas m
-thara' f
+thara f
 tauqir m
 khalek m
 hasrin f
@@ -29766,7 +29766,7 @@ mateerah f
 maheen f
 zafri m
 aeni f
-al-din m
+aldin m
 yezda f
 shunaira f
 dhakir m
@@ -29994,7 +29994,7 @@ tusher m
 barkha f
 moinudin m
 kahira f
-al-hakim m
+alhakim m
 munjidah f
 daana m
 nazilah f
@@ -30668,7 +30668,7 @@ qasimuddin m
 alizah f
 hayam f
 majeedah f
-ul-baari m
+ulbaari m
 fereshta f
 zunaybah f
 althamees m
@@ -30808,7 +30808,7 @@ shamshaad m
 hanfi m
 mufaad m
 meethaq m
-baraa'a f
+baraaa f
 naiera f
 haizan m
 isbaah m
@@ -31150,7 +31150,7 @@ shon m
 aabdeen m
 shazrah f
 mehzabeen f
-ul-mulk m
+ulmulk m
 gulhamid m
 urveen f
 kaazhim m
@@ -31354,7 +31354,7 @@ bakhtiyari f
 jagabar m
 antar m
 aanifatimahkhatoon f
-e-abeeha f
+eabeeha f
 thabin m
 firyal f
 kynlee f
@@ -31450,7 +31450,7 @@ ferdous m
 sadeem m
 mufallah m
 spezala f
-e-habiba f
+ehabiba f
 manzurah f
 laaden m
 uzaiz m
