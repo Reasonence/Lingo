@@ -86,7 +86,7 @@ combinations = combine(
         [
             'voice',
             'aspiration',
-            # 'generic',
+            'generic',
             # 'type',
             # 'length',
             'depth',
