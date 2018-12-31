@@ -1,6 +1,6 @@
 from infer import infer
 
-test = open('./data/t.txt', 'r')
+test = open('./data/testing.txt', 'r')
 
 correct = 0
 incorrect = 0
