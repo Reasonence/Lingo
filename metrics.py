@@ -123,8 +123,6 @@ def traitPairs(name):
 
 
 
-
-
 def traitTriplets(name):
     arr = []
 
@@ -198,18 +196,15 @@ def offsetTraitPairs(name):
 
 
 
-
-
 def metrics(name):
-    arr = offsetLetters(name)
+    arr = []
+    # arr = arr + offsetLetters(name)
     arr = arr + pairs(name)
     arr = arr + offsetPairs(name)
     arr = arr + triplets(name)
-    arr = arr + offsetTriplets(name)
+    # arr = arr + offsetTriplets(name)
 
     return arr
-
-
 
 
 
@@ -236,8 +231,6 @@ def traitMetrics(name):
 
 
 
-
-
-
 def allMetrics(name):
     return metrics(name) + traitMetrics(name)
+
