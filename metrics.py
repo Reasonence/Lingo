@@ -198,11 +198,11 @@ def offsetTraitPairs(name):
 
 def metrics(name):
     arr = []
-    # arr = arr + offsetLetters(name)
+    arr = arr + offsetLetters(name)
     arr = arr + pairs(name)
     arr = arr + offsetPairs(name)
     arr = arr + triplets(name)
-    # arr = arr + offsetTriplets(name)
+    arr = arr + offsetTriplets(name)
 
     return arr
 

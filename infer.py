@@ -1,8 +1,13 @@
 import json
 from metrics import metrics, traitPairs, traitTriplets, offsetTraitTriplets, offsetTraitPairs
+import random
 
 training_file = open('./training.json', 'r')
 training = json.load(training_file)
+
+
+def randomWeight():
+    return random.uniform(1.0, 1.2)
 
 
 def p(sex, metric):
@@ -38,19 +43,19 @@ def infer(name: str):
     name = c_name
 
     mets = metrics(name)
-    male = 1
-    female = 1
+    male = 0
+    female = 0
 
     for i in mets:
         weight = 1
         num = i[0]
 
-        if num in ['0','1','2']:
-            weight = weight * (3 - int(num))
+        if num in ['0','1','2','3']:
+            weight = weight * (4 - int(num))**2
 
 
-        female = female + (p("female", i) * weight)
-        male = male + (p("male", i) * weight)
+        female = female + (p("female", i) * weight * randomWeight())
+        male = male + (p("male", i) * weight * randomWeight())
 
     mets = []
     mets = mets + traitPairs(name)
@@ -66,12 +71,12 @@ def infer(name: str):
             weight = 1
             num = met[0]
 
-            if num in ['0','1','2']:
-                weight = weight * (3 - int(num))
+            if num in ['0','1','2','3']:
+                weight = weight * (4 - int(num))**2
 
 
-            ff = ff + p("female", met) * weight
-            mm = mm + p("male", met) * weight
+            ff = ff + p("female", met) * weight * randomWeight()
+            mm = mm + p("male", met) * weight * randomWeight()
 
         if len(met_set) < 1:
             continue
